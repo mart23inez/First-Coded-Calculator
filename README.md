@@ -21,4 +21,3 @@ but I did write and debug 90% of this calculator's code.
 
 Today is July 7th 2026. I plan on becoming a Software Developer or have some kind of career in Cybersecurity.
 My name is Derick S Martinez.
-
